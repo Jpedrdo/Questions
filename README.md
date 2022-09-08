@@ -1,9 +1,11 @@
 <h1 align="center">Questions</h1>
 
+<img src="src/imgs/question.png">
+
 <p align="center">
   <img src="src/imgs/dashboard.png" width="30%"> 
     &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="src/imgs/question.png" width="30%">
+  <img src="src/imgs/editMode.png" width="30%">
     &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="src/imgs/answered.png" width="30%">
 </p>
